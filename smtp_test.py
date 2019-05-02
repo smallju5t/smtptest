@@ -16,7 +16,7 @@ mail_pass="1qaz2wsx!@#"
  
  
 sender = 'whoayou@protonmail.com'
-receivers = ['1183617450@qq.com']
+receivers = ['2546578950@qq.com']
  
 message = MIMEText('Python 邮件发送测试...', 'plain', 'utf-8')
 message['From'] = Header("测试邮件", 'utf-8')
